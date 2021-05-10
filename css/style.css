@@ -131,12 +131,55 @@ header a:hover {
     width: 100px;
 }
 
+#sidebar {
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+}
+
+.dark {
+    background-color: #35424a;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#main-col {
+    float: left;
+    width: 65%;
+}
+
+#services {
+    list-style: none;
+    background-color: #e6e6e6;
+    padding: 30px;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+}
+
+
+
 footer {
     padding: 15px;
     background-color: black;
     color: white;
     text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
